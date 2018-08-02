@@ -4,4 +4,4 @@
 
 ## Website URL
 
-To test out, visit [https://bradtraversy.github.io/simple_service_worker](https://bradtraversy.github.io/simple_service_worker) and go offline
+To test out, visit [https://bradtraversy.github.io/service_worker_example](https://bradtraversy.github.io/service_worker_example) and go offline
