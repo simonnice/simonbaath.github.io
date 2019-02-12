@@ -1,10 +1,10 @@
 const cacheName = 'v1'
 
 const cacheAssets = [
-  'index.html',
-  'about.html',
-  '/css/style.css',
-  '/js/main.js'
+  './index.html',
+  './about.html',
+  './css/style.css',
+  './js/main.js'
 ]
 
 // Call Install Event
