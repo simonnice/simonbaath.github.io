@@ -43,3 +43,5 @@ self.addEventListener('fetch', (event) => {
       }).catch(err => caches.match(event.request).then(res => res))
   )
 })
+
+// Jaj
